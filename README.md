@@ -111,7 +111,7 @@ Currently exploring **LLMs, deep learning, AI inference & optimization, and syst
 
 <br>
 
-<h3 align="center">📬 Contact Me</h3>
+<h3 align="center">Contact Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/khushi-sharma-ks25" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn" width="40"/>
